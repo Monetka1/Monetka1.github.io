@@ -1,0 +1,17 @@
+body{
+	background-color: #aeaeae;
+}
+h1 {
+	color: black;
+	text-align: center;
+}
+p {
+	color: green;
+}
+.ass {
+	color: red;
+	text-align: center;
+}
+.black {
+	color: black;
+}
